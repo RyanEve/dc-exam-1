@@ -1,0 +1,9 @@
+2020-04-09 20:15:42,562  INFO ExamBootstrapApplication:48 ---- Starting ExamBootstrapApplication on Lenovo-PC with PID 10956 (D:\WorkSpace2020\dc-exam\target\classes started by sophia in D:\WorkSpace2020\dc-exam)
+2020-04-09 20:15:42,565 DEBUG ExamBootstrapApplication:51 ---- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2020-04-09 20:15:42,566  INFO ExamBootstrapApplication:593 ---- No active profile set, falling back to default profiles: default
+2020-04-09 20:17:16,359  INFO ExamBootstrapApplication:48 ---- Starting ExamBootstrapApplication on Lenovo-PC with PID 12736 (D:\WorkSpace2020\dc-exam\target\classes started by sophia in D:\WorkSpace2020\dc-exam)
+2020-04-09 20:17:16,390 DEBUG ExamBootstrapApplication:51 ---- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2020-04-09 20:17:16,392  INFO ExamBootstrapApplication:593 ---- No active profile set, falling back to default profiles: default
+2020-04-09 20:19:18,628  INFO ExamBootstrapApplication:48 ---- Starting ExamBootstrapApplication on Lenovo-PC with PID 9520 (D:\WorkSpace2020\dc-exam\target\classes started by sophia in D:\WorkSpace2020\dc-exam)
+2020-04-09 20:19:18,647 DEBUG ExamBootstrapApplication:51 ---- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2020-04-09 20:19:18,648  INFO ExamBootstrapApplication:593 ---- No active profile set, falling back to default profiles: default

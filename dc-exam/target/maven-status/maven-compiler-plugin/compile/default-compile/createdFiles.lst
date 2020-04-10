@@ -1,0 +1,6 @@
+com\igw\exm\givebatch\infrastructure\dao\GiveBatchDAO.class
+com\igw\exm\givebatch\controller\TestController.class
+com\igw\exm\ExamBootstrapApplication.class
+com\igw\exm\test.class
+com\igw\exm\givebatch\domain\repository\GiveBatchRepository.class
+com\igw\exm\givebatch\application\GiveBatchApplication.class
